@@ -1,0 +1,30 @@
+table
+{
+    width: 1000px;
+}
+tr
+{
+    width: 1000px;
+}
+th
+{
+    height: 100px;
+    border: 20px black;
+    cursor: pointer;
+}
+.One
+{
+    background-color: blue;
+}
+.Two
+{
+    background-color: red;
+}
+.One:hover
+{
+    background: white;
+}
+.Two:hover
+{
+    background: black;
+}
